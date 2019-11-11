@@ -1,0 +1,4 @@
+Примеры реализации DDD подхода:
+https://github.com/dddinphp/last-wishes
+https://github.com/codeliner/php-ddd-cargo-sample
+https://github.com/jorge07/ddd-playground
